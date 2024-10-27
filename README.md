@@ -10,10 +10,7 @@ Through a survey of 122 participants on Amazon Mechanical Turk, the study identi
 The paper also applies the **Technology Acceptance Model (TAM)** to explain behavioral trends and provides theoretical insights on technology adoption across different sectors.
 
 ## Files
-- **[AI-Tool-Adoption-Paper.pdf](./AI-Tool-Adoption-Paper.pdf)**: Full research paper with embedded figures and analysis.
-- **Images Folder**: Contains graphs and visualizations referenced in the paper.
-  - Age-Based AI Tool Adoption graph
-  - TVD Histogram graph
+- **AI-Tool-Adoption-Paper.pdf**: Full research paper with embedded figures and analysis.
 
 ## How to View
 1. Click on the **AI-Tool-Adoption-Paper.pdf** to open or download the full paper.
