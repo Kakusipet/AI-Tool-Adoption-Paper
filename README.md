@@ -21,4 +21,11 @@ If you have any questions or feedback, feel free to contact me:
 **Aman Wakankar** – [amanwakankar0@gmail.com](mailto:amanwakankar0@gmail.com)
 
 ## License
-This repository is shared for academic and personal purposes only. **All rights reserved.** If you'd like to reuse any part of this work, please contact me for permission.
+This work is licensed under a **[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)**.  
+![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format.
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+
+As long as you provide appropriate credit, give a link to the license, and indicate if changes were made.
